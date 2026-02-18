@@ -1,0 +1,27 @@
+body {
+   background-color: #FD1C03;
+}
+
+a {
+   color: black;
+}
+
+p {
+   font-size: 25px;
+   text-align: center;
+
+}
+
+li {
+   color: #39FF14;
+}
+
+img {
+   border: 10px solid rgb(109, 109, 109);
+
+}
+
+a {
+  margin-left: 550px;
+  font-size: 200%;
+}
