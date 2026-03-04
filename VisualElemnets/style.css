@@ -1,0 +1,22 @@
+body{
+    background-color: blue;
+}
+img{
+    border: 10px solid;
+    border-radius: 100px ;
+    margin-left: 25%;
+}
+iframe{
+    margin-left: 38%;
+}
+video{
+    margin-left: 38%;
+    width: 500px;
+}
+audio{
+    margin-left: 38%;
+    width: 500px;
+}
+h1{
+    margin-left: 45%;
+}

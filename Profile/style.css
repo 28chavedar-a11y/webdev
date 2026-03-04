@@ -1,0 +1,33 @@
+.profile-card {
+    background-color: aqua;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid black;
+    width: 300px;
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    color: blue;
+    text-align: center;
+}
+
+#submit-btn {
+    background-color: green;
+    color: aliceblue;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.bio {
+    font-size: 14px;
+    margin-bottom: 20px;
+    line-height: 1.5;
+
+}
+
+#submit-btn:hover {
+    background-color: darkgreen;
+}
