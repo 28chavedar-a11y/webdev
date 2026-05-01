@@ -1,0 +1,144 @@
+body {
+    background-color: grey;
+}
+
+#wrapper {
+    display: grid;
+    grid-template-columns: 1fr 3fr 3fr 3fr 1fr;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+    grid-column: 3;
+    font-size: 50px;
+}
+
+#LosTaps {
+    width: 100%;
+    border-radius: 100px;
+    border: 10px solid;
+    grid-column: 3;
+}
+
+#Food {
+    border-radius: 100px;
+    border: 10px solid;
+    grid-column: 3;
+    grid-column: 3;
+}
+
+#Sanchez {
+    width: 100%;
+    border-radius: 100px;
+    border: 10px solid;
+    grid-column: 3;
+}
+
+a {
+    border: 1px solid black;
+    text-align: center;
+
+    background-color: black;
+    border-radius: 100px;
+    border: 10px solid;
+    width: 25%;
+    display: inline-block;
+}
+
+
+#submit-btn {
+    background-color: black;
+    color: red;
+    cursor: pointer;
+    margin: 10px;
+}
+
+#submit-btn:hover {
+    background-color: grey;
+}
+
+h2 {
+    color: red;
+    text-align: center;
+    grid-column: 3;
+    font-size: 50px;
+}
+
+p {
+    grid-column: 3;
+    text-align: center;
+    font-size: large;
+}
+
+ul {
+    grid-column: 3;
+}
+
+nav {
+    grid-column: 3;
+}
+
+table {
+    grid-column: 3;
+    border-color: black;
+    font-size: 50px;
+}
+
+#Menu {
+    width: 100%;
+    border-radius: 100px;
+    border: 10px solid;
+    grid-column: 3;
+}
+
+#Carne {
+    width: 300px;
+}
+
+#Cabeza {
+    width: 300px;
+}
+
+#Al {
+    width: 300px;
+}
+
+#Chorizo {
+    width: 300px;
+}
+
+#Lengua {
+    width: 300px;
+}
+
+ol {
+    grid-column: 3;
+}
+
+h3 {
+    grid-column: 3;
+    color: red;
+    font-size: larger;
+}
+
+#Owner {
+    border-radius: 100px;
+    border: 10px solid;
+    grid-column: 3;
+}
+
+form {
+    grid-column: 3;
+    text-align: center;
+    font-size: 30px;
+}
+input {
+    font-size: 15px;
+}
+#Place {
+    width: 100%;
+    border-radius: 100px;
+    border: 10px solid;
+    grid-column: 3;
+}
